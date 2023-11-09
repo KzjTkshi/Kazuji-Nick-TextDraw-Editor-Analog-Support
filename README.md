@@ -23,15 +23,20 @@ https://github.com/KzjTkshi/Kazuji-Nick-TextDraw-Editor-Analog-Support.git
 `Nickk's x Kazuji Textdraw Editor v1.4 Analog System`
 
 
-`Fitur `
-`+ Pembaruan Include ndialog-pages -> fix error need 3 days to fix`
-`+ Menggunakan CMD tidak perlu login rcon`
-`+ Perubahan Nama Folder`
-`+ Penambahan 114 Warna`
-`+ Perubahan CMD -> /ntd ke -> /kntd`
-`+ Saat Export Fungsional Filterscript, Menggunakan System ZCMD bukan OnPlayerCommandText Lagi`
-`+ Penghapusan Screen Welcome`
-`+ Perubahan Nama Project -> .ntdp -> .ktdp`
-`+ Penambahan 5 Bahasa Baru`
-`+ Dan Lainnya Bisa Kalian Cek Sendiri`
+Fitur 
++ Pembaruan Include ndialog-pages -> fix error need 3 days to fix
++ Menggunakan CMD tidak perlu login rcon
++ Perubahan Nama Folder
++ Penambahan 114 Warna
++ Perubahan CMD -> /ntd ke -> /kntd
++ Saat Export Fungsional Filterscript, Menggunakan System ZCMD bukan OnPlayerCommandText Lagi
++ Penghapusan Screen Welcome
++ Perubahan Nama Project -> .ntdp -> .ktdp
++ Penambahan 5 Bahasa Baru
++ Dan Lainnya Bisa Kalian Cek Sendiri
+
++ UPDATE VERSI BARU
++ Perubahan CMD -> /kntd -> /ktd
++ Penambahan Script Agar Support Analog
+## - Kalau di Hosting Kadang ga terkonek bahasanya 
 ## Keep Credits
