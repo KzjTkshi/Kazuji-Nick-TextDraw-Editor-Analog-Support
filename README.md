@@ -3,8 +3,9 @@
 [![K-NTD Kauzji Nick TextDraw Editor](https://img.shields.io/badge/Kazuji--TextDraw--Editor-Black
 )](https://github.com/KzjTkshi/Kazuji-Nick-TextDraw-Editor-Analog-Support)
 
-Original Scipt By : https://github.com/Nickk888SAMP
-Versi Script yang saya gunakan : https://github.com/Nickk888SAMP/TextDraw-Editor/releases/tag/6.0
+`Original Scipt By :` https://github.com/Nickk888SAMP
+
+`Versi Script yang saya gunakan :` https://github.com/Nickk888SAMP/TextDraw-Editor/releases/tag/6.0
 
 ## Installation
 
