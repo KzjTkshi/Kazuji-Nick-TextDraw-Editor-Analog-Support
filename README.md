@@ -15,17 +15,6 @@
 WAJIB MENGGUNAKAN TXD TEXTURE Dri Folder Models, Ga di pasang, ga bakalan bisa scriptnya
 ```
 
-## Installation
-
-Clone this repository IN Visual Studio Code :
-
-1. Click Saurce Control
-2. Click Clone Repository
-3. Copy the link below then put it in the link input column
-```bash
-https://github.com/KzjTkshi/Kazuji-Nick-TextDraw-Editor-Analog-Support.git
-```
-
 `Nickk's x Kazuji Textdraw Editor v1.4 Analog System`
 
 
@@ -41,9 +30,11 @@ Fitur
 + Penambahan 5 Bahasa Baru
 + Dan Lainnya Bisa Kalian Cek Sendiri
 
-## + UPDATE VERSI BARU
+## UPDATE VERSI BARU v1.4.5
 + Perubahan CMD -> /kntd -> /ktd
 + Penambahan Script Agar Support Analog
 - Penghapusan Kendaraan di bagian Background Kazuji Community
++ Perubahan dari System Filterscript ke System Gamemode
++ Penambahan Fitur Spawn Choise
 ## - Kalau di Hosting Kadang ga terkonek bahasanya 
 ## Keep Credits
