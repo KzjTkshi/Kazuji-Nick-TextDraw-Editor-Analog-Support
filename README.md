@@ -34,7 +34,7 @@ Fitur
 + Perubahan CMD -> /kntd -> /ktd
 + Penambahan Script Agar Support Analog
 - Penghapusan Kendaraan di bagian Background Kazuji Community
-+ Perubahan dari System Filterscript ke System Gamemode
 + Penambahan Fitur Spawn Choise
++ Fix Beberapa Minor & Manor Bug
 ## - Kalau di Hosting Kadang ga terkonek bahasanya 
 ## Keep Credits
