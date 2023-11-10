@@ -41,8 +41,9 @@ Fitur
 + Penambahan 5 Bahasa Baru
 + Dan Lainnya Bisa Kalian Cek Sendiri
 
-+ UPDATE VERSI BARU
+## + UPDATE VERSI BARU
 + Perubahan CMD -> /kntd -> /ktd
 + Penambahan Script Agar Support Analog
+- Penghapusan Kendaraan di bagian Background Kazuji Community
 ## - Kalau di Hosting Kadang ga terkonek bahasanya 
 ## Keep Credits
