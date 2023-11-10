@@ -31,6 +31,7 @@ Fitur
 + Dan Lainnya Bisa Kalian Cek Sendiri
 
 ## UPDATE VERSI BARU v1.4.5
++ Fix Skrip telah dinonaktifkan! Periksa log server untuk informasi lebih lanjut
 + Perubahan CMD -> /kntd -> /ktd
 + Penambahan Script Agar Support Analog
 - Penghapusan Kendaraan di bagian Background Kazuji Community
