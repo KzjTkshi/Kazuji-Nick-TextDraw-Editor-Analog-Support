@@ -3,6 +3,8 @@
 [![K-NTD Kauzji Nick TextDraw Editor](https://img.shields.io/badge/Kazuji--TextDraw--Editor-Black
 )](https://github.com/KzjTkshi/Kazuji-Nick-TextDraw-Editor-Analog-Support)
 
+[![K-NTD Kauzji Nick TextDraw Editor](https://media.discordapp.net/attachments/1139146928634990625/1173104564061352046/te1GBhS.png?ex=6562bdc3&is=655048c3&hm=37f07ca15a7aaec2de73adf2a6a4348db7409c8368010559cc33e3cd1517f56b&=&width=963&height=498)](https://github.com/KzjTkshi/Kazuji-Nick-TextDraw-Editor-Analog-Support)
+
 `Original Scipt By :` https://github.com/Nickk888SAMP
 
 `Versi Script yang saya gunakan :` https://github.com/Nickk888SAMP/TextDraw-Editor/releases/tag/6.0
